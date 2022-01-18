@@ -10,8 +10,6 @@ You can contact me by **yafan-huang@uiowa.edu**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyfshishen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![hyfshishen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyfshishen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **lwshanbd/lwshanbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
