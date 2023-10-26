@@ -1,13 +1,12 @@
 ### ✋Hi, this is Yafan Huang. 
 
-I am a Computer Science Ph.D. student in University of Iowa.
+I am a Computer Science Ph.D. student at the University of Iowa.
 
 ### ✨ Contact ✨
 
-You can contact me by **yafan-huang@uiowa.edu**.
+You can contact me at **yafan-huang@uiowa.edu**.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyfshishen&theme=gruvbox_light&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyfshishen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
